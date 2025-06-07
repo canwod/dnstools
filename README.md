@@ -26,7 +26,7 @@ Bootstrap 5 (CDN üzerinden sağlanıyor)
 
 
 Adımlar:
-Depoyu klonlayın: git clone https://github.com/kullanici/dns-whois-analyzer.git
+Depoyu klonlayın: git clone https://github.com/canwod/dnstools
 Dosyaları web sunucunuza yükleyin.
 index.php içinde WhoisXMLAPI anahtarınızı apiKey değişkenine ekleyin.
 index.php dosyasını tarayıcınızda açın.
